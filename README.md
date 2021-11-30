@@ -1,4 +1,4 @@
-# Countdown-Timer
+# Countdown-Timer Program
 This program counts down from a given time.
 
 ## Technology used
